@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit e807d94346f69c94ad5af01ae83361e296894a2d
+> يا عيوني بين الكلام
+> أسمع نبضك في الظلام
+> نورك يمحي كل الآلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
